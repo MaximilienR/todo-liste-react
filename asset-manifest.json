@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MaximilienR/TODO-LIST-REACT/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/MaximilienR/TODO-LIST-REACT/static/js/main.4bf1c774.chunk.js",
+    "main.js.map": "/MaximilienR/TODO-LIST-REACT/static/js/main.4bf1c774.chunk.js.map",
+    "runtime-main.js": "/MaximilienR/TODO-LIST-REACT/static/js/runtime-main.f299e328.js",
+    "runtime-main.js.map": "/MaximilienR/TODO-LIST-REACT/static/js/runtime-main.f299e328.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/MaximilienR/TODO-LIST-REACT/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.31ac9a7b.chunk.js": "/MaximilienR/TODO-LIST-REACT/static/js/2.31ac9a7b.chunk.js",
+    "static/js/2.31ac9a7b.chunk.js.map": "/MaximilienR/TODO-LIST-REACT/static/js/2.31ac9a7b.chunk.js.map",
+    "index.html": "/MaximilienR/TODO-LIST-REACT/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/MaximilienR/TODO-LIST-REACT/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/MaximilienR/TODO-LIST-REACT/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.31ac9a7b.chunk.js.LICENSE.txt": "/MaximilienR/TODO-LIST-REACT/static/js/2.31ac9a7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f299e328.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.31ac9a7b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4bf1c774.chunk.js"
+  ]
+}
